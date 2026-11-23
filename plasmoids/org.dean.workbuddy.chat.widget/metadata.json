@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "WorkBuddy"
+            }
+        ],
+        "Category": "Productivity",
+        "Description": "WorkBuddy 对话栏：会话切换、对话/思考/回答三栏、真实模型选择与常用功能快捷入口",
+        "Description[zh_CN]": "WorkBuddy 对话栏：会话切换、对话/思考/回答三栏、真实模型选择与常用功能快捷入口",
+        "Icon": "workbuddy",
+        "Id": "org.dean.workbuddy.chat.widget",
+        "Name": "WorkBuddy 对话",
+        "Name[zh_CN]": "WorkBuddy 对话",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}

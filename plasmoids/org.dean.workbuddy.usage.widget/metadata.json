@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "WorkBuddy"
+            }
+        ],
+        "Category": "Productivity",
+        "Description": "WorkBuddy 积分用量：累计积分消耗、当前模型倍率与上下文用量速览",
+        "Description[zh_CN]": "WorkBuddy 积分用量：累计积分消耗、当前模型倍率与上下文用量速览",
+        "Icon": "workbuddy",
+        "Id": "org.dean.workbuddy.usage.widget",
+        "Name": "WorkBuddy 积分用量",
+        "Name[zh_CN]": "WorkBuddy 积分用量",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}

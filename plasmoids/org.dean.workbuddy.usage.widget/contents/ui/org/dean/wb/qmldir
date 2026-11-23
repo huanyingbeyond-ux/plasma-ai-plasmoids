@@ -1,0 +1,5 @@
+module org.dean.wb
+plugin wbbridgeplugin
+classname org_dean_wbPlugin
+typeinfo wbbridge.qmltypes
+Dummy 1.0 Dummy.qml

@@ -1,0 +1,5 @@
+module org.dean.dsh
+plugin dshbridgeplugin
+classname org_dean_dshPlugin
+typeinfo dshbridge.qmltypes
+Dummy 1.0 Dummy.qml

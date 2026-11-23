@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "dean"
+            }
+        ],
+        "Category": "Productivity",
+        "Description": "DSH 对话栏：会话切换、对话/思考/回答三栏、强度与真实模型选择、问题直达 DSH",
+        "Description[zh_CN]": "DSH 对话栏：会话切换、对话/思考/回答三栏、强度与真实模型选择、问题直达 DSH",
+        "Icon": "dsh-app",
+        "Id": "org.dean.dsh.chat.widget",
+        "Name": "DSH 对话",
+        "Name[zh_CN]": "DSH 对话",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}

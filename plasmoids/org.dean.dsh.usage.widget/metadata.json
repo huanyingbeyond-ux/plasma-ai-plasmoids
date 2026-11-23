@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "dean"
+            }
+        ],
+        "Category": "Productivity",
+        "Description": "DSH 余额与用量速览：余额、累计消耗、调用次数与余额曲线",
+        "Description[zh_CN]": "DSH 余额与用量速览：余额、累计消耗、调用次数与余额曲线",
+        "Icon": "dsh-app",
+        "Id": "org.dean.dsh.usage.widget",
+        "Name": "DSH 余额用量",
+        "Name[zh_CN]": "DSH 余额用量",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
